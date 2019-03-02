@@ -1,0 +1,63 @@
+.innerWraper{
+	background : #eee;
+  overflow-x: scroll;
+	/*float: left*/
+}
+
+.newsFeedContainer{
+  overflow-x: scroll;
+}
+.flagWrapper{
+/*	width: 50px;
+	height: 50px;*/
+}
+
+.flagImg{
+	width: 100%;
+}
+
+.dataRow{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.dataRow:hover{
+    cursor: pointer;
+    background-color: #888;
+}
+
+.noPadLR{
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
+.newsFeedTitle{
+  text-align: center;
+  padding: 2%;
+  font-weight: bold;
+  font-size: 30px;
+  background: #eee;
+}
+
+.newsHeading{
+  font-size: 18px;
+}
+
+.newsWrapperRows{
+  margin-top: 1%;
+  margin-bottom: 1%;
+  background: #eeeeff;  
+}
+
+.newsContent{
+  font-size: 15px;
+}
+
+.newsRelatedImg{
+  width: 100%;
+}
+
+.newsPublishOn{
+    font-size: 10px;
+    color: #555;
+}
