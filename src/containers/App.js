@@ -10,7 +10,7 @@ import { setName } from "../actions/userActions";
 import { getNewsSrcs } from "../actions/newsSrcsActions";
 import { getNews } from "../actions/newsActions";
 const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI('24961e15a5ae49228bdac922186ca8d1');
+const newsapi = new NewsAPI('xyz');
 
 class App extends React.Component {
 
